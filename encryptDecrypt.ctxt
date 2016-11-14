@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=encryptDecrypt(java.lang.String)
+comment1.params=str\ a\ b\ c
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ int,\ int,\ int)
+comment2.params=ASCIIRef
+comment2.target=int\ checkLetter(int)
+comment3.params=str\ a\ b\ c
+comment3.target=java.lang.String\ decrypt(java.lang.String,\ int,\ int,\ int)
+comment4.params=ASCIIRef
+comment4.target=int\ checkLetter2(int)
+numComments=5
